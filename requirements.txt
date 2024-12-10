@@ -69,7 +69,6 @@ matplotlib==3.9.3
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.0.2
-mkl-service==2.4.0
 narwhals==1.15.2
 nbclient==0.10.1
 nbconvert==7.16.4
